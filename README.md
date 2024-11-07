@@ -31,7 +31,7 @@ Plan: Develop strategies to address detected anomalies and optimize performance.
 Execute: Implement the planned actions to rectify issues or enhance system performance.
 Knowledge: Utilize insights gained from previous cycles to improve future monitoring and response strategies.
 
-###m Conclusion
+### Conclusion
 - The study emphasizes the importance of both predictive and reactive strategies in auto-scaling anomaly detection.
 - The MAPE-K loop facilitates a proactive approach to identifying and resolving anomalies, enhancing system resilience and efficiency.
 - Future work may involve experimenting with additional machine learning models and forecasting methods, such as SARIMA and Prophet, to further improve anomaly detection techniques.
