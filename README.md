@@ -12,7 +12,6 @@ Objective- Develop a robust anomaly detection system tailored for cloud computin
 
 
 ### ProjectOverview
-The primary goal of this project is to build predictive models for estimating body fat percentage and evaluate the performance of various regression techniques. This helps in identifying the most effective model for body fat prediction based on features like age, weight, height, and various body measurements.
 
 ### Dataset
 Dataset
